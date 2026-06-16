@@ -1,3 +1,4 @@
 # student.demo
 this is my first git repository
-author - abhisek samantary
+<br>
+Author - Abhisek Samantaray(btech student)
